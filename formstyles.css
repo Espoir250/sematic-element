@@ -1,0 +1,36 @@
+body{
+ width: 70%;
+ background-color:white;
+
+}
+main{
+    width: 80%;
+    color: red;
+    background-color: rgb(24, 104, 4);
+    padding-right: 20px;
+    margin: auto;
+    
+}
+form>fieldset> label{
+    display: block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+form>button{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+form> fieldset>label{
+    width: 70%;
+    height: 40px;
+    font-size: 35px;
+}
+form>select{
+       width: 40%;
+       height: 40px;
+       font-size: 32px;
+       margin-right: 50px;
+       margin-top: 30px;
+
+}
